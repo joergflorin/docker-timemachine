@@ -2,6 +2,6 @@
 Container for timemachine backups
 see: https://hub.docker.com/r/mbentley/timemachine
 
-Configure environment in env.txt (see env.txt.sample)
+Configure environment in `.env` (see `sample.env`.txt.sample`)
 
-run `./install.sh`
+run `docker-compose up -d`
